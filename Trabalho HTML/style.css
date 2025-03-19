@@ -1,0 +1,25 @@
+.Titulo {
+    text-align: center;
+    border: 10px solid #5BBE42;
+}
+.carrinho {
+    width: 80px;
+}
+.Itens {
+    padding: 10px 50px;
+}
+.Produtos {
+    margin: 40px;
+    width: 30vh;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    background-color: #5BBE42;
+    border-radius: 40px;
+}
+.Aluno {
+    margin-left: 600px;
+    margin-right: 600px;
+    background-color: rgb(0, 255, 0);
+    text-align: center;
+    border-radius: 50px;
+}
